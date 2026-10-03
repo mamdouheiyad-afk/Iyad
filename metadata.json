@@ -1,0 +1,6 @@
+{
+  "name": "TradeHub - Simulateur de Marchés & Trading Virtuel",
+  "description": "Suivi des marchés en direct, graphiques interactifs, simulation de trading sans risque, portefeuille virtuel et académie pour débutants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
